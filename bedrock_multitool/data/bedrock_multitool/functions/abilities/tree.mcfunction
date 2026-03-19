@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ #minecraft:logs run setblock ~ ~ ~ air destroy

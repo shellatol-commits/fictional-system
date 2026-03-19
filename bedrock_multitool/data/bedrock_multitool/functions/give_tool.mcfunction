@@ -1,0 +1,3 @@
+give @p minecraft:netherite_pickaxe{BedrockMultitool:1b,Ability:"none",display:{Name:'{"text":"Bedrock Multitool","color":"dark_purple"}'}} 1
+tellraw @s [{"text":"Bedrock Multitool ","color":"light_purple","bold":true},{"text":"Acquired!","color":"gold"}]
+tellraw @s [{"text":"Sneak with the ","color":"gold"},{"text":"Bedrock Multitool ","color":"light_purple","bold":true},{"text":"to show ability menu!","color":"gold"}]

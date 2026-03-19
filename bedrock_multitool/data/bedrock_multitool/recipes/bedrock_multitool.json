@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " N ",
+    "NON",
+    " N "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:nether_star"
+    },
+    "O": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_pickaxe",
+    "count": 1,
+    "nbt": "{BedrockMultitool:1b,Ability:\"none\",display:{Name:'{\"text\":\"Bedrock Multitool\",\"color\":\"dark_purple\",\"bold\":true}'}}"
+  }
+}

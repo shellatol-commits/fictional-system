@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ minecraft:iron_ore run setblock ~ ~ ~ air destroy

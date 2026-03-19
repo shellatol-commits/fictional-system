@@ -1,0 +1,18 @@
+{
+  "music_disc.13": {
+    "sounds": [
+      {
+        "name": "records/diamond_memories",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.cat": {
+    "sounds": [
+      {
+        "name": "records/diamond_memories_sped",
+        "stream": true
+      }
+    ]
+  }
+}
