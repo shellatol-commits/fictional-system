@@ -1,0 +1,1 @@
+tellraw @a {"text":"Summer has begun!","color":"gold"}

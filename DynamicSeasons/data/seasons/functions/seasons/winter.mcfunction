@@ -1,0 +1,1 @@
+tellraw @a {"text":"Winter has begun!","color":"aqua"}
